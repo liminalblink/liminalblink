@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hello There
+
+# This is an experimental repo for a portfolio in progress. While bare and devoid of content for now, good things are surely to come
 
 <!--
 **liminalblink/liminalblink** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
