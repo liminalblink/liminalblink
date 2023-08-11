@@ -1,6 +1,6 @@
 # Hello There
 
-[hello-there-kenobi.gif](https://github.com/liminalblink/liminalblink/blob/main/hello-there-kenobi.gif)
+https://raw.githubusercontent.com/liminalblink/liminalblink/main/hello-there-kenobi.gif
 
 ### This is an experimental repo for a portfolio in progress. While bare and devoid of content for now, good things are surely to come
 
